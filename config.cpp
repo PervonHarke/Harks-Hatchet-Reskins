@@ -54,9 +54,9 @@ class CfgVehicles
 			"",
 			"",
 			"",
-			"\Harks-Hatchet-Reskins\UH60M_Bundesheer\Hull_Main_UH60M_Bundesheer_Gruen.paa",
-			"\Harks-Hatchet-Reskins\UH60M_Bundesheer\Misc_UH60M_Bundesheer_Gruen.paa",
-			"\Harks-Hatchet-Reskins\UH60M_Bundesheer\Hull_Tail_UH60M_Bundesheer_Gruen.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_Bundesheer\Hull_Main_UH60M_Bundesheer_Gruen.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_Bundesheer\Misc_UH60M_Bundesheer_Gruen.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_Bundesheer\Hull_Tail_UH60M_Bundesheer_Gruen.paa",
 			""
 		};
 		displayName="UH-60M Bundesheer";
@@ -90,9 +90,9 @@ class CfgVehicles
 			"",
 			"",
 			"",
-			"\Harks-Hatchet-Reskins\UH60M_Bundesheer\Hull_Main_UH60M_Bundesheer_Gruen.paa",
-			"\Harks-Hatchet-Reskins\UH60M_Bundesheer\Misc_UH60M_Bundesheer_Gruen.paa",
-			"\Harks-Hatchet-Reskins\UH60M_Bundesheer\Hull_Tail_UH60M_Bundesheer_Gruen.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_Bundesheer\Hull_Main_UH60M_Bundesheer_Gruen.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_Bundesheer\Misc_UH60M_Bundesheer_Gruen.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_Bundesheer\Hull_Tail_UH60M_Bundesheer_Gruen.paa",
 			""
 		};
 		displayName="UH-60M Bundesheer Slick";
@@ -124,10 +124,10 @@ class CfgVehicles
       "",
       "",
       "",
-      "\Harks-Hatchet-Reskins\UH60M_JSOK\Markings_UH60M_JSOK.paa",
-			"\Harks-Hatchet-Reskins\UH60M_JSOK\Hull_Main_UH60M_JSOK.paa",
-			"\Harks-Hatchet-Reskins\UH60M_JSOK\Misc_UH60M_JSOK.paa",
-			"\Harks-Hatchet-Reskins\UH60M_JSOK\Hull_Tail_UH60M_JSOK.paa",
+      "Harks-Hatchet-Reskins\data\UH60M_JSOK\Markings_UH60M_JSOK.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Main_UH60M_JSOK.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Misc_UH60M_JSOK.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Tail_UH60M_JSOK.paa",
       ""
     };
     displayName="UH-60M JSOK";
@@ -160,10 +160,10 @@ class CfgVehicles
         "",
         "",
         "",
-        "\Harks-Hatchet-Reskins\UH60M_JSOK\Markings_UH60M_JSOK.paa",
-  			"\Harks-Hatchet-Reskins\UH60M_JSOK\Hull_Main_UH60M_JSOK.paa",
-  			"\Harks-Hatchet-Reskins\UH60M_JSOK\Misc_UH60M_JSOK.paa",
-  			"\Harks-Hatchet-Reskins\UH60M_JSOK\Hull_Tail_UH60M_JSOK.paa",
+        "Harks-Hatchet-Reskins\data\UH60M_JSOK\Markings_UH60M_JSOK.paa",
+  			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Main_UH60M_JSOK.paa",
+  			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Misc_UH60M_JSOK.paa",
+  			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Tail_UH60M_JSOK.paa",
         ""
       };
       displayName="UH-60M JSOK";
@@ -195,10 +195,10 @@ class CfgVehicles
 		    "",
 		    "",
 		    "",
-		    "\Harks-Hatchet-Reskins\MH60M_JSOK\Markings_MH60M_JSOK.paa",
-		  	"\Harks-Hatchet-Reskins\MH60M_JSOK\Hull_Main_UH60M_JSOK.paa",
-		  	"\Harks-Hatchet-Reskins\MH60M_JSOK\Misc_MH60M_JSOK.paa",
-		  	"\Harks-Hatchet-Reskins\MH60M_JSOK\Hull_Tail_MH60M_JSOK.paa",
+		    "Harks-Hatchet-Reskins\data\MH60M_JSOK\Markings_MH60M_JSOK.paa",
+		  	"Harks-Hatchet-Reskins\data\MH60M_JSOK\Hull_Main_UH60M_JSOK.paa",
+		  	"Harks-Hatchet-Reskins\data\MH60M_JSOK\Misc_MH60M_JSOK.paa",
+		  	"Harks-Hatchet-Reskins\data\MH60M_JSOK\Hull_Tail_MH60M_JSOK.paa",
 		    ""
 		  };
 		  displayName="MH60M JSOK";
