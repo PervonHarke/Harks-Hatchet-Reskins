@@ -109,26 +109,26 @@ class CfgVehicles
     faction="BLU_F";
     hiddenSelectionsTextures[]=
     {
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "Harks-Hatchet-Reskins\data\UH60M_JSOK\Markings_UH60M_JSOK.paa",
-			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Main_UH60M_JSOK.paa",
-			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Misc_UH60M_JSOK.paa",
-			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Tail_UH60M_JSOK.paa",
-      ""
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Markings_UH-60M_JSOK.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Main_UH-60M_JSOK.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Misc_UH-60M_JSOK.paa",
+			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Tail_UH-60M_JSOK.paa",
+			""
     };
     displayName="UH-60M JSOK";
     icon="\A3\Air_F\Heli_Light_02\Data\UI\Map_Heli_Light_02_CA.paa";
@@ -160,13 +160,13 @@ class CfgVehicles
         "",
         "",
         "",
-        "Harks-Hatchet-Reskins\data\UH60M_JSOK\Markings_UH60M_JSOK.paa",
-  			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Main_UH60M_JSOK.paa",
-  			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Misc_UH60M_JSOK.paa",
-  			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Tail_UH60M_JSOK.paa",
+        "Harks-Hatchet-Reskins\data\UH60M_JSOK\Markings_UH-60M_JSOK.paa",
+  			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Main_UH-60M_JSOK.paa",
+  			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Misc_UH-60M_JSOK.paa",
+  			"Harks-Hatchet-Reskins\data\UH60M_JSOK\Hull_Tail_UH-60M_JSOK.paa",
         ""
       };
-      displayName="UH-60M JSOK";
+      displayName="UH-60M Slick JSOK";
       icon="\A3\Air_F\Heli_Light_02\Data\UI\Map_Heli_Light_02_CA.paa";
       picture="\A3\Air_F\Heli_Light_02\Data\UI\Heli_Light_02_CA.paa";
     };
@@ -195,19 +195,69 @@ class CfgVehicles
 		    "",
 		    "",
 		    "",
-		    "Harks-Hatchet-Reskins\data\MH60M_JSOK\Markings_MH60M_JSOK.paa",
-		  	"Harks-Hatchet-Reskins\data\MH60M_JSOK\Hull_Main_UH60M_JSOK.paa",
-		  	"Harks-Hatchet-Reskins\data\MH60M_JSOK\Misc_MH60M_JSOK.paa",
-		  	"Harks-Hatchet-Reskins\data\MH60M_JSOK\Hull_Tail_MH60M_JSOK.paa",
-		    ""
+		    "Harks-Hatchet-Reskins\data\MH60M_JSOK\Markings_MH-60M_JSOK.paa",
+		  	"Harks-Hatchet-Reskins\data\MH60M_JSOK\Hull_Main_MH-60M_JSOK.paa",
+		  	"Harks-Hatchet-Reskins\data\MH60M_JSOK\Misc_MH-60M_JSOK.paa",
+		  	"Harks-Hatchet-Reskins\data\MH60M_JSOK\Hull_Tail_MH-60M_JSOK.paa",
+				"",
+				"",
+				"",
+				"",
+	      "z\vtx\addons\UH60\data\FuelProbe\Fuel_probe_co.paa"
 		  };
-		  displayName="MH60M JSOK";
-//		editorPreview = "z\vtx\addons\MH60M\Data\Preview\vtx_MH60M.jpg";
+		  displayName="MH-60M JSOK";
+  		editorPreview = "z\vtx\addons\MH60M\Data\Preview\vtx_MH60M.jpg";
 		  icon="\A3\Air_F\Heli_Light_02\Data\UI\Map_Heli_Light_02_CA.paa";
 		  picture="\A3\Air_F\Heli_Light_02\Data\UI\Heli_Light_02_CA.paa";
 		};
 
-//
-//
-//
-};
+
+
+				class textureSources
+				{
+					class JSOK
+					{
+						// Display name of the texture
+						displayName = "JSOK";
+						// Author
+						author = "Per_von_Harke";
+						// Textures (custom ones)
+						textures[] =
+						{
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"Harks-Hatchet-Reskins\data\MH60M_JSOK\Markings_MH-60M_JSOK.paa",
+							"Harks-Hatchet-Reskins\data\MH60M_JSOK\Hull_Main_MH-60M_JSOK.paa",
+							"Harks-Hatchet-Reskins\data\MH60M_JSOK\Misc_MH-60M_JSOK.paa",
+							"Harks-Hatchet-Reskins\data\MH60M_JSOK\Hull_Tail_MH-60M_JSOK.paa",
+							"",
+							"",
+							"",
+							"",
+							"z\vtx\addons\UH60\data\FuelProbe\Fuel_probe_co.paa"
+						};
+						factions[] =
+						{
+							"BLU_F", "BLU_G_F",	// Side Blufor
+						};
+					};//class HHR_JSOK
+				};//Texture Sources
+		};// CfgVehicleTemplates
+
+
+
+
+};//class CfgVehicles
